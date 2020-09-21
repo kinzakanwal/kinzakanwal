@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://octodex.github.com/suftocat/" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/Professortocat_v2/" height="160px" width="160px">
+
+
 ### G’day! [Kinza Kanwal!](https://kinzakanwal.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
 
 <a href="https://twitter.com/KinzaKanwal553">
@@ -21,11 +24,17 @@
 <a href="https://www.behance.net/kinzakanwal553">
   <img align="left" alt="Kinza Kanwal's Behance" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
 
 <br />
 
+<p align="left">
+  <br><img src="https://badges.pufler.dev/visits/kinzakanwal/kinzakanwal/"><img src="https://badges.pufler.dev/repos/kinzakanwal"><img src="https://badges.pufler.dev/years/kinzakanwal"><img src="https://badges.pufler.dev/gists/kinzakanwal"</p>
+
+<br />
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="25px" width="25px">
 
 ### WHO AM I! 🤔 &nbsp;
 
@@ -48,11 +57,10 @@ I am a passionate Computer Scientist from Pakistan.🤍💚
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saad's GitHub Stats"> -->
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzakanwal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kinza's GitHub Stats">
-  <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&theme=radical&line_height=21" alt="Kinza's github stats"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzakanwal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kinza's GitHub Stats">
 </p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github or I'm currently interested in.*
