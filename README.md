@@ -50,8 +50,8 @@ I am a passionate Computer Scientist from Pakistan.🤍💚
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saad's GitHub Stats"> -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzakanwal&theme=azure-shades-rose-gold&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=azure-shades-rose-gold&icon_color=fad000" alt="Kinza's GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzakanwal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kinza's GitHub Stats">
   <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&theme=radical&line_height=21" alt="Kinza's github stats"/>-->
 </p>
 
