@@ -30,7 +30,7 @@
 <br />
 
 <p align="left">
-  <br><img src="https://badges.pufler.dev/visits/kinzakanwal/kinzakanwal/"><img src="https://badges.pufler.dev/repos/kinzakanwal"><img src="https://badges.pufler.dev/years/kinzakanwal"><img src="https://badges.pufler.dev/gists/kinzakanwal">
+  <br><img src="https://badges.pufler.dev/visits/kinzakanwal/kinzakanwal/"><img src="https://badges.pufler.dev/repos/kinzakanwal/"><img src="https://badges.pufler.dev/years/kinzakanwal/"><img src="https://badges.pufler.dev/gists/kinzakanwal/">
 </p>
 
 <br />
