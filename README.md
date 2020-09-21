@@ -1,4 +1,4 @@
-### G’day! [Kinza Kanwal!] here 😀(https://kinzakanwal.github.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px" alt="Waving">
+### G’day! [Kinza Kanwal!](https://kinzakanwal.github.io/) here 😀 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px" alt="Waving">
 
 <a href="https://twitter.com/KinzaKanwal553">
   <img align="left" alt="Kinza Kanwal's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -42,7 +42,7 @@ I am a passionate Computer Scientist from Pakistan.🤍💚
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzakanwal&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=community-material-theme-darker&icon_color=fad000" alt="Kinza's GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=monokia&icon_color=fad000" alt="Kinza's GitHub Stats">
   <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&theme=radical&line_height=21" alt="Kinza's github stats"/>
 </p>-->
 
