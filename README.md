@@ -21,9 +21,7 @@
 <a href="https://www.behance.net/kinzakanwal553">
   <img align="left" alt="Kinza Kanwal's Behance" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
-<a href="https://dribbble.com/Kanwalkinza">
-  <img align="left" alt="Kinza Kanwal's Dribble" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribble.svg" />
-</a>
+
 
 
 <br />
