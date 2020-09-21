@@ -31,6 +31,7 @@
 
 <p align="left">
   <br><img src="https://badges.pufler.dev/visits/kinzakanwal/kinzakanwal/"><img src="https://badges.pufler.dev/repos/kinzakanwal/"><img src="https://badges.pufler.dev/years/kinzakanwal/"><img src="https://badges.pufler.dev/gists/kinzakanwal/">
+  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 </p>
 
 <br />
