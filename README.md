@@ -72,7 +72,7 @@ I am a passionate Computer Scientist from Pakistan.🤍💚
 - [How to reister an application on Azure AD](https://medium.com/@kinzakanwal553/create-an-azure-ad-application-ea50fe2a24bb)
 - [Types of permissions & consents in Azure](https://medium.com/@kinzakanwal553/permissions-and-consents-in-azure-e2bcdf5d6f6f)
 
-## I ❤️ Tech
+## I ❤️ Tech & Design
 
 ⚡ Fun fact <br>
 “Make it look pretty but train it to kill.” — Allin
