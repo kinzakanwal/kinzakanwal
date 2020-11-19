@@ -39,7 +39,7 @@
 
 I am a passionate Computer Scientist from Pakistan.🤍💚
 - 😋 Currently, working on some projects, will notify timely😊
-- 🤩 Learning FLutter along side Cloud Technology and Webdevelopement😴
+- 🤩 Learning FLutter along side Webdevelopement😴
 - 👯 I’m looking to collaborate in open source projects✌
 - 🥅 2020 Goals: Contribute more to Open Source projects. Yay!
 
