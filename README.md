@@ -1,16 +1,10 @@
-<p align="center"> <img src="https://octodex.github.com/images/Professortocat_v2.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px">
-
-
-### G’day! [Kinza Kanwal!](https://kinzakanwal.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
-
+<p align="center"> 
+<h1>Hey! Kinza Kanwal here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></h1>
 <a href="https://twitter.com/KinzaKanwal553">
   <img align="left" alt="Kinza Kanwal's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kinzakanwal/">
   <img align="left" alt="Kinza Kanwal's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/kinzakanwal">
-  <img align="left" alt="Kinza Kanwal's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/kinzakanwal.5/">
   <img align="left" alt="Kinza Kanwal's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -35,15 +29,16 @@
 
 <br />
 
-### WHO AM I! 🤔 &nbsp;
+## WHO AM I? 🤔 &nbsp;
 
 I am a passionate Computer Scientist from Pakistan.🤍💚
-- 😋 Currently, working on some projects, will notify timely😊
-- 🤩 Learning FLutter along side Webdevelopement😴
-- 👯 I’m looking to collaborate in open source projects✌
-- 🥅 2020 Goals: Contribute more to Open Source projects. Yay!
+- 😋 Currently, working on nodeJs & Javascript tech stack😊
+- 🤩 Learning DevOps alongside Web Development
+- 👯 I’m looking to collaborate in UI/UX projects❤️
+- 🥅 2022 Goals: Contribute more to Open Source projects. Yay!
+<hr>
 
-**Languages and Tools:** &nbsp;
+# Languages and Tools: &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/aws/aws.png"></code>
@@ -57,12 +52,10 @@ I am a passionate Computer Scientist from Pakistan.🤍💚
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-<p>
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzakanwal&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=kinzakanwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kinza's GitHub Stats">
 </p>
-
-*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github or I'm currently interested in.*
 
 <br />
 
